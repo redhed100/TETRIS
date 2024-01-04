@@ -1,0 +1,7 @@
+D:\C_PJ\C#\Console\Tetris\Tetris\bin\Release\Tetris.exe.config
+D:\C_PJ\C#\Console\Tetris\Tetris\bin\Release\Tetris.exe
+D:\C_PJ\C#\Console\Tetris\Tetris\bin\Release\Tetris.pdb
+D:\C_PJ\C#\Console\Tetris\Tetris\obj\Release\Tetris.csproj.AssemblyReference.cache
+D:\C_PJ\C#\Console\Tetris\Tetris\obj\Release\Tetris.csproj.CoreCompileInputs.cache
+D:\C_PJ\C#\Console\Tetris\Tetris\obj\Release\Tetris.exe
+D:\C_PJ\C#\Console\Tetris\Tetris\obj\Release\Tetris.pdb
