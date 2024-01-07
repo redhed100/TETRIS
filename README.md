@@ -3,6 +3,11 @@ Simple tetris made with c# .net
 
 And this is my first project)
 
+# Examples
+
+![menu](./screenshots/main.png)
+![game](./screenshots/game.png)
+
 # Features
 
 - [X] Default mode(lvl 0-9)
