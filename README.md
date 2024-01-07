@@ -5,8 +5,8 @@ And this is my first project)
 
 # Examples
 
-![menu](./screenshots/main.png)
-![game](./screenshots/game.png)
+![menu](./Screenshots/main.png)
+![game](./Screenshots/game.png)
 
 # Features
 
